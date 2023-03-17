@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?> <selector xmlns:android="http://schemas.android.com/apk/res/android"> <item>
+    <layer-list>
+        <item
+
+            android:drawable="@drawable/sombra" />
+        <item android:bottom="1dp" android:drawable="@drawable/redondo" android:right="1dp" />
+    </layer-list>
+</item>
+</selector>
